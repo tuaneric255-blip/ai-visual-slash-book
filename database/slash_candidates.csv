@@ -1,0 +1,51 @@
+slash_id,slash,canonical_name,category,subcategory,semantic_type,test_status,review_status
+P001,/contrapposto,Contrapposto,Pose,Standing,STRONG,UNTESTED,PENDING
+P002,/powerpose,Power Pose,Pose,Standing,COMPOSITE,UNTESTED,PENDING
+P003,/hipshift,Hip Shift,Pose,Standing,STRONG,UNTESTED,PENDING
+P004,/onehandpocket,One Hand in Pocket,Pose,Hands,STRONG,UNTESTED,PENDING
+P005,/armscrossed,Arms Crossed,Pose,Hands,STRONG,UNTESTED,PENDING
+P006,/forwardlean,Forward Lean,Pose,Body,STRONG,UNTESTED,PENDING
+P007,/walk,Walk,Pose,Movement,STRONG,UNTESTED,PENDING
+P008,/lookbackpose,Look-back Pose,Pose,Direction,COMPOSITE,UNTESTED,PENDING
+P009,/chairsit,Chair Sit,Pose,Sitting,COMPOSITE,UNTESTED,PENDING
+P010,/dynamicpose,Dynamic Pose,Pose,Movement,COMPOSITE,UNTESTED,PENDING
+C001,/eyelevel,Eye Level,Camera,Angle,STRONG,UNTESTED,PENDING
+C002,/lowangle,Low Angle,Camera,Angle,STRONG,UNTESTED,PENDING
+C003,/highangle,High Angle,Camera,Angle,STRONG,UNTESTED,PENDING
+C004,/topdown,Top Down,Camera,Angle,STRONG,UNTESTED,PENDING
+C005,/wormseyeview,Worm's-eye View,Camera,Angle,STRONG,UNTESTED,PENDING
+C006,/dutchangle,Dutch Angle,Camera,Angle,STRONG,UNTESTED,PENDING
+C007,/frontview,Front View,Camera,Position,STRONG,UNTESTED,PENDING
+C008,/sideview,Side View,Camera,Position,STRONG,UNTESTED,PENDING
+C009,/threequarterview,Three-quarter View,Camera,Position,STRONG,UNTESTED,PENDING
+C010,/overtheshoulder,Over the Shoulder,Camera,Position,STRONG,UNTESTED,PENDING
+O001,/ruleofthirds,Rule of Thirds,Composition,Classical,STRONG,UNTESTED,PENDING
+O002,/centercomposition,Center Composition,Composition,Balance,COMPOSITE,UNTESTED,PENDING
+O003,/symmetry,Symmetry,Composition,Balance,STRONG,UNTESTED,PENDING
+O004,/asymmetry,Asymmetry,Composition,Balance,STRONG,UNTESTED,PENDING
+O005,/leadinglines,Leading Lines,Composition,Lines,STRONG,UNTESTED,PENDING
+O006,/diagonalcomposition,Diagonal Composition,Composition,Lines,COMPOSITE,UNTESTED,PENDING
+O007,/scurve,S Curve,Composition,Curves,COMPOSITE,UNTESTED,PENDING
+O008,/framewithinframe,Frame Within Frame,Composition,Framing,COMPOSITE,UNTESTED,PENDING
+O009,/negativespace,Negative Space,Composition,Space,STRONG,UNTESTED,PENDING
+O010,/foregroundinterest,Foreground Interest,Composition,Depth,COMPOSITE,UNTESTED,PENDING
+L001,/softlight,Soft Light,Lighting,Quality,STRONG,UNTESTED,PENDING
+L002,/hardlight,Hard Light,Lighting,Quality,STRONG,UNTESTED,PENDING
+L003,/windowlight,Window Light,Lighting,Source,STRONG,UNTESTED,PENDING
+L004,/sidelight,Side Light,Lighting,Direction,STRONG,UNTESTED,PENDING
+L005,/backlight,Backlight,Lighting,Direction,STRONG,UNTESTED,PENDING
+L006,/rimlight,Rim Light,Lighting,Pattern,STRONG,UNTESTED,PENDING
+L007,/rembrandt,Rembrandt Lighting,Lighting,Portrait,STRONG,UNTESTED,PENDING
+L008,/butterflylight,Butterfly Lighting,Lighting,Portrait,STRONG,UNTESTED,PENDING
+L009,/splitlight,Split Lighting,Lighting,Portrait,STRONG,UNTESTED,PENDING
+L010,/lowkey,Low-key Lighting,Lighting,Tonality,STRONG,UNTESTED,PENDING
+R001,/centerproduct,Centered Product,Product,Position,COMPOSITE,UNTESTED,PENDING
+R002,/floatingproduct,Floating Product,Product,Position,COMPOSITE,UNTESTED,PENDING
+R003,/layflat,Lay Flat,Product,Position,STRONG,UNTESTED,PENDING
+R004,/heroangle,Hero Angle,Product,Camera,COMPOSITE,UNTESTED,PENDING
+R005,/explodedview,Exploded View,Product,Technical,STRONG,UNTESTED,PENDING
+R006,/watersplash,Water Splash,Product,FX,STRONG,UNTESTED,PENDING
+R007,/condensation,Condensation,Product,FX,STRONG,UNTESTED,PENDING
+R008,/productinhand,Product in Hand,Product,Usage,COMPOSITE,UNTESTED,PENDING
+R009,/purewhite,Pure White Background,Product,Background,COMPOSITE,UNTESTED,PENDING
+R010,/bundlepack,Bundle Pack,Product,Presentation,COMPOSITE,UNTESTED,PENDING
