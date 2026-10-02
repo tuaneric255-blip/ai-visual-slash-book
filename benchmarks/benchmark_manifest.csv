@@ -1,0 +1,13 @@
+benchmark_id,name,type,status,reference_asset,baseline_prompt,lock_variables,notes
+B01,Adult Female Portrait,people,DRAFT,,,identity|age|hair|outfit|environment|aspect_ratio,
+B02,Adult Male Portrait,people,DRAFT,,,identity|age|hair|outfit|environment|aspect_ratio,
+B03,Couple,people,DRAFT,,,identities|wardrobe|relative_position|environment,
+B04,Group of Four,people,DRAFT,,,identities|wardrobe|group_size|environment,
+B05,Perfume Bottle,product,DRAFT,,,geometry|cap|liquid|label|logo|typography|material,
+B06,Skincare Bottle,product,DRAFT,,,geometry|label|logo|material,
+B07,Beverage,product,DRAFT,,,geometry|label|logo|material|liquid,
+B08,Consumer Electronics,product,DRAFT,,,geometry|screen|logo|material,
+B09,Fashion Item,product,DRAFT,,,shape|material|color|branding,
+B10,Food Dish,food,DRAFT,,,dish|ingredients|plate|surface,
+B11,Interior,space,DRAFT,,,room_geometry|furniture|materials,
+B12,Architecture Street,space,DRAFT,,,architecture|street_layout|time_baseline,
