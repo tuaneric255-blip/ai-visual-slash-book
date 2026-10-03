@@ -1,0 +1,5 @@
+queue_id,slash_id,benchmark_id,variant,planned_run,status,prompt_file,output_asset,evidence_id,review_status
+C002-B01-C01,C002,B01,CONTROL,1,QUEUED,tests/camera/C002_lowangle/prompts/control_b01.txt,,,PENDING
+C002-B01-T01,C002,B01,ISOLATED,1,QUEUED,tests/camera/C002_lowangle/prompts/test_b01.txt,,,PENDING
+C002-B01-T02,C002,B01,ISOLATED,2,QUEUED,tests/camera/C002_lowangle/prompts/test_b01.txt,,,PENDING
+C002-B01-T03,C002,B01,ISOLATED,3,QUEUED,tests/camera/C002_lowangle/prompts/test_b01.txt,,,PENDING
