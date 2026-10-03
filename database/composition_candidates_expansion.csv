@@ -1,0 +1,43 @@
+slash,canonical_name,subcategory,semantic_type,test_status
+/ruleofthirds,Rule of Thirds,Classical,STRONG,UNTESTED
+/goldenratio,Golden Ratio,Classical,STRONG,UNTESTED
+/goldenspiral,Golden Spiral,Classical,STRONG,UNTESTED
+/fibonacci,Fibonacci Composition,Classical,COMPOSITE,UNTESTED
+/centercomposition,Center Composition,Balance,COMPOSITE,UNTESTED
+/symmetry,Symmetry,Balance,STRONG,UNTESTED
+/asymmetry,Asymmetry,Balance,STRONG,UNTESTED
+/visualbalance,Visual Balance,Balance,COMPOSITE,UNTESTED
+/leadinglines,Leading Lines,Lines,STRONG,UNTESTED
+/diagonalcomposition,Diagonal Composition,Lines,COMPOSITE,UNTESTED
+/diagonalline,Diagonal Line,Lines,STRONG,UNTESTED
+/converginglines,Converging Lines,Lines,STRONG,UNTESTED
+/radiatinglines,Radiating Lines,Lines,STRONG,UNTESTED
+/vanishingpoint,Vanishing Point,Perspective,STRONG,UNTESTED
+/scurve,S Curve,Curves,COMPOSITE,UNTESTED
+/ccurve,C Curve,Curves,COMPOSITE,UNTESTED
+/leadingcurve,Leading Curve,Curves,COMPOSITE,UNTESTED
+/curvecomposition,Curve Composition,Curves,COMPOSITE,UNTESTED
+/trianglecomposition,Triangle Composition,Shapes,COMPOSITE,UNTESTED
+/lcomposition,L Composition,Shapes,COMPOSITE,UNTESTED
+/framewithinframe,Frame Within Frame,Framing,COMPOSITE,UNTESTED
+/negativespace,Negative Space,Space,STRONG,UNTESTED
+/filltheframe,Fill the Frame,Space,STRONG,UNTESTED
+/depthcomposition,Depth Composition,Depth,COMPOSITE,UNTESTED
+/foregroundinterest,Foreground Interest,Depth,COMPOSITE,UNTESTED
+/layeredcomposition,Layered Composition,Depth,COMPOSITE,UNTESTED
+/repetition,Repetition,Rhythm,STRONG,UNTESTED
+/patterncomposition,Pattern Composition,Rhythm,COMPOSITE,UNTESTED
+/visualrhythm,Visual Rhythm,Rhythm,COMPOSITE,UNTESTED
+/subjectisolation,Subject Isolation,Hierarchy,COMPOSITE,UNTESTED
+/juxtaposition,Juxtaposition,Hierarchy,STRONG,UNTESTED
+/minimalcomposition,Minimal Composition,Hierarchy,COMPOSITE,UNTESTED
+/visualhierarchy,Visual Hierarchy,Hierarchy,COMPOSITE,UNTESTED
+/focalpoint,Focal Point,Hierarchy,STRONG,UNTESTED
+/proximity,Proximity,Gestalt,STRONG,UNTESTED
+/similarity,Similarity,Gestalt,STRONG,UNTESTED
+/continuity,Continuity,Gestalt,STRONG,UNTESTED
+/closure,Closure,Gestalt,STRONG,UNTESTED
+/figureground,Figure Ground,Gestalt,COMPOSITE,UNTESTED
+/commonregion,Common Region,Gestalt,COMPOSITE,UNTESTED
+/alignment,Alignment,Design Principle,STRONG,UNTESTED
+/contrast,Contrast,Design Principle,STRONG,UNTESTED
