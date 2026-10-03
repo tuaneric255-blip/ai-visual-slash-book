@@ -1,0 +1,5 @@
+Use the approved B01 reference subject.
+
+Create one standalone photorealistic full-body image of the same adult benchmark subject on the locked modern urban street. Preserve identity, age appearance, hairstyle, white crop top, brown jacket, dark wide cargo pants, white sneakers, scene identity and natural daylight. Neutral relaxed standing posture, facing camera, head through shoes fully visible. Camera at normal eye-level height with a natural straight-on perspective. No cinematic stylization, no dramatic lens effect, no exaggerated pose.
+
+This is an atomic CONTROL generation. Do not add labels, panels, comparison layout, captions or infographic elements.
