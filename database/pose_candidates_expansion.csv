@@ -1,0 +1,84 @@
+slash,canonical_name,subcategory,semantic_type,test_status
+/neutralstand,Neutral Stand,Standing,STRONG,UNTESTED
+/relaxedstand,Relaxed Stand,Standing,COMPOSITE,UNTESTED
+/straightstand,Straight Stand,Standing,COMPOSITE,UNTESTED
+/contrapposto,Contrapposto,Standing,STRONG,UNTESTED
+/hipshift,Hip Shift,Standing,STRONG,UNTESTED
+/weightononeleg,Weight on One Leg,Standing,STRONG,UNTESTED
+/onelegforward,One Leg Forward,Standing,STRONG,UNTESTED
+/kneebend,Knee Bend,Standing,STRONG,UNTESTED
+/anklecross,Ankle Cross,Standing,STRONG,UNTESTED
+/crosslegstand,Cross-leg Stand,Standing,COMPOSITE,UNTESTED
+/powerstance,Power Stance,Standing,COMPOSITE,UNTESTED
+/widestance,Wide Stance,Standing,STRONG,UNTESTED
+/squarestance,Square Stance,Standing,COMPOSITE,UNTESTED
+/shouldersquare,Shoulders Square,Standing,COMPOSITE,UNTESTED
+/walllean,Wall Lean,Leaning,COMPOSITE,UNTESTED
+/sidelean,Side Lean,Leaning,COMPOSITE,UNTESTED
+/backlean,Back Lean,Leaning,COMPOSITE,UNTESTED
+/shoulderlean,Shoulder Lean,Leaning,COMPOSITE,UNTESTED
+/scurvepose,S-curve Pose,Fashion Standing,COMPOSITE,UNTESTED
+/hippop,Hip Pop,Fashion Standing,COMPOSITE,UNTESTED
+/toepoint,Toe Point,Fashion Standing,STRONG,UNTESTED
+/shoulderdrop,Shoulder Drop,Fashion Standing,COMPOSITE,UNTESTED
+/shoulderturn,Shoulder Turn,Fashion Standing,STRONG,UNTESTED
+/waisttwist,Waist Twist,Fashion Standing,STRONG,UNTESTED
+/overtheshoulder,Over the Shoulder,Fashion Standing,COMPOSITE,UNTESTED
+/handonhip,Hand on Hip,Hands,STRONG,UNTESTED
+/onehandpocket,One Hand in Pocket,Hands,STRONG,UNTESTED
+/bothhandspockets,Both Hands in Pockets,Hands,STRONG,UNTESTED
+/armscrossed,Arms Crossed,Hands,STRONG,UNTESTED
+/jacketgrip,Jacket Grip,Hands,COMPOSITE,UNTESTED
+/cuffadjust,Cuff Adjust,Hands,COMPOSITE,UNTESTED
+/watchcheck,Watch Check,Hands,COMPOSITE,UNTESTED
+/chairsit,Chair Sit,Sitting,COMPOSITE,UNTESTED
+/frontchairsit,Front Chair Sit,Sitting,COMPOSITE,UNTESTED
+/sidechairsit,Side Chair Sit,Sitting,COMPOSITE,UNTESTED
+/backwardchair,Backward Chair Sit,Sitting,COMPOSITE,UNTESTED
+/edgechairsit,Edge Chair Sit,Sitting,COMPOSITE,UNTESTED
+/deepsit,Deep Sit,Sitting,COMPOSITE,UNTESTED
+/forwardleansit,Forward Lean Sit,Sitting,COMPOSITE,UNTESTED
+/relaxedsit,Relaxed Sit,Sitting,COMPOSITE,UNTESTED
+/legcrosssit,Leg Cross Sit,Sitting,COMPOSITE,UNTESTED
+/anklecrosssit,Ankle Cross Sit,Sitting,COMPOSITE,UNTESTED
+/legsapartsit,Legs Apart Sit,Sitting,COMPOSITE,UNTESTED
+/onelegextended,One Leg Extended,Sitting,STRONG,UNTESTED
+/elbowonknee,Elbow on Knee,Sitting,STRONG,UNTESTED
+/sofasit,Sofa Sit,Context Sitting,COMPOSITE,UNTESTED
+/floorsit,Floor Sit,Context Sitting,COMPOSITE,UNTESTED
+/stairsit,Stair Sit,Context Sitting,COMPOSITE,UNTESTED
+/benchsit,Bench Sit,Context Sitting,COMPOSITE,UNTESTED
+/desksit,Desk Sit,Context Sitting,COMPOSITE,UNTESTED
+/windowsit,Window Sit,Context Sitting,COMPOSITE,UNTESTED
+/bededge,Bed Edge Sit,Context Sitting,COMPOSITE,UNTESTED
+/handonchin,Hand on Chin,Hands,STRONG,UNTESTED
+/handonface,Hand on Face,Hands,STRONG,UNTESTED
+/handinhair,Hand in Hair,Hands,STRONG,UNTESTED
+/armsbehindback,Arms Behind Back,Hands,STRONG,UNTESTED
+/handsclasped,Hands Clasped,Hands,STRONG,UNTESTED
+/pointing,Pointing,Gesture,STRONG,UNTESTED
+/waving,Waving,Gesture,STRONG,UNTESTED
+/peacesign,Peace Sign,Gesture,STRONG,UNTESTED
+/thumbsup,Thumbs Up,Gesture,STRONG,UNTESTED
+/lookatcamera,Look at Camera,Eye Direction,STRONG,UNTESTED
+/lookingaway,Looking Away,Eye Direction,STRONG,UNTESTED
+/lookup,Look Up,Eye Direction,STRONG,UNTESTED
+/lookdown,Look Down,Eye Direction,STRONG,UNTESTED
+/lookleft,Look Left,Eye Direction,STRONG,UNTESTED
+/lookright,Look Right,Eye Direction,STRONG,UNTESTED
+/sideglance,Side Glance,Eye Direction,STRONG,UNTESTED
+/eyesclosed,Eyes Closed,Eye Direction,STRONG,UNTESTED
+/headtilt,Head Tilt,Head Direction,STRONG,UNTESTED
+/profilelook,Profile Look,Head Direction,COMPOSITE,UNTESTED
+/overshoulderlook,Over-shoulder Look,Head Direction,COMPOSITE,UNTESTED
+/lookingback,Looking Back,Head Direction,STRONG,UNTESTED
+/smile,Smile,Expression,STRONG,UNTESTED
+/softsmile,Soft Smile,Expression,COMPOSITE,UNTESTED
+/laughing,Laughing,Expression,STRONG,UNTESTED
+/serious,Serious Expression,Expression,COMPOSITE,UNTESTED
+/thoughtful,Thoughtful Expression,Expression,COMPOSITE,UNTESTED
+/surprised,Surprised Expression,Expression,STRONG,UNTESTED
+/curious,Curious Expression,Expression,COMPOSITE,UNTESTED
+/calm,Calm Expression,Expression,COMPOSITE,UNTESTED
+/focused,Focused Expression,Expression,COMPOSITE,UNTESTED
+/neutralexpression,Neutral Expression,Expression,COMPOSITE,UNTESTED
