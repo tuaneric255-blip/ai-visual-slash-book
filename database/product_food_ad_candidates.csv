@@ -1,0 +1,34 @@
+slash,canonical_name,domain,subcategory,semantic_type,test_status
+/centerproduct,Center Product,Product,Composition,COMPOSITE,UNTESTED
+/heroangle,Hero Angle,Product,Camera,COMPOSITE,UNTESTED
+/layflat,Lay Flat,Product,Composition,STRONG,UNTESTED
+/floatingproduct,Floating Product,Product,Composition,COMPOSITE,UNTESTED
+/bundlepack,Bundle Pack,Product,Composition,COMPOSITE,UNTESTED
+/productinhand,Product in Hand,Product,Usage,COMPOSITE,UNTESTED
+/showproduct,Show Product,Product,Usage,COMPOSITE,UNTESTED
+/useproduct,Use Product,Product,Usage,COMPOSITE,UNTESTED
+/watersplash,Water Splash,Product,Effect,STRONG,UNTESTED
+/condensation,Condensation,Product,Effect,STRONG,UNTESTED
+/icecubes,Ice Cubes,Product,Effect,STRONG,UNTESTED
+/smoke,Smoke,Effect,Atmosphere,STRONG,UNTESTED
+/mist,Mist,Effect,Atmosphere,STRONG,UNTESTED
+/powdersplash,Powder Splash,Effect,Particles,COMPOSITE,UNTESTED
+/particles,Particles,Effect,Particles,STRONG,UNTESTED
+/levitation,Levitation,Effect,Motion,STRONG,UNTESTED
+/explodedview,Exploded View,Technical,Explanatory,STRONG,UNTESTED
+/cutaway,Cutaway,Technical,Explanatory,STRONG,UNTESTED
+/crosssection,Cross Section,Technical,Explanatory,STRONG,UNTESTED
+/xrayview,X-ray View,Technical,Explanatory,COMPOSITE,UNTESTED
+/transparentshell,Transparent Shell,Technical,Explanatory,COMPOSITE,UNTESTED
+/blueprint,Blueprint,Technical,Diagram,STRONG,UNTESTED
+/technicaldiagram,Technical Diagram,Technical,Diagram,COMPOSITE,UNTESTED
+/schematic,Schematic,Technical,Diagram,STRONG,UNTESTED
+/purewhite,Pure White,Product,Ecommerce,STRONG,UNTESTED
+/catalogshot,Catalog Shot,Product,Ecommerce,COMPOSITE,UNTESTED
+/herodish,Hero Dish,Food,Composition,COMPOSITE,UNTESTED
+/steam,Steam,Food,Effect,STRONG,UNTESTED
+/pourshot,Pour Shot,Beverage,Action,COMPOSITE,UNTESTED
+/heroshot,Hero Shot,Advertising,Hierarchy,COMPOSITE,UNTESTED
+/copyspace,Copy Space,Advertising,Layout,COMPOSITE,UNTESTED
+/ctaspace,CTA Space,Advertising,Layout,MACRO,UNTESTED
+/keyvisual,Key Visual,Advertising,System,COMPOSITE,UNTESTED
