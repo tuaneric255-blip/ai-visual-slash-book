@@ -1,0 +1,72 @@
+slash,canonical_name,domain,subcategory,semantic_type,test_status
+/eyelevel,Eye Level,Camera,Angle,STRONG,UNTESTED
+/lowangle,Low Angle,Camera,Angle,STRONG,UNTESTED
+/highangle,High Angle,Camera,Angle,STRONG,UNTESTED
+/topdown,Top Down,Camera,Angle,STRONG,UNTESTED
+/overhead,Overhead,Camera,Angle,STRONG,UNTESTED
+/wormseyeview,Worm's-eye View,Camera,Angle,STRONG,UNTESTED
+/groundlevel,Ground Level,Camera,Angle,STRONG,UNTESTED
+/dutchangle,Dutch Angle,Camera,Angle,STRONG,UNTESTED
+/frontview,Front View,Camera,Orientation,STRONG,UNTESTED
+/sideview,Side View,Camera,Orientation,STRONG,UNTESTED
+/threequarterview,Three-quarter View,Camera,Orientation,STRONG,UNTESTED
+/backview,Back View,Camera,Orientation,STRONG,UNTESTED
+/overtheshoulder,Over the Shoulder,Camera,Orientation,STRONG,UNTESTED
+/pov,Point of View,Camera,Orientation,COMPOSITE,UNTESTED
+/extremecloseup,Extreme Close-up,Camera,Framing,STRONG,UNTESTED
+/closeup,Close-up,Camera,Framing,STRONG,UNTESTED
+/mediumcloseup,Medium Close-up,Camera,Framing,STRONG,UNTESTED
+/mediumshot,Medium Shot,Camera,Framing,STRONG,UNTESTED
+/threequartershot,Three-quarter Shot,Camera,Framing,COMPOSITE,UNTESTED
+/kneeshot,Knee Shot,Camera,Framing,COMPOSITE,UNTESTED
+/fullbody,Full Body,Camera,Framing,STRONG,UNTESTED
+/fullshot,Full Shot,Camera,Framing,STRONG,UNTESTED
+/wideshot,Wide Shot,Camera,Framing,STRONG,UNTESTED
+/establishingshot,Establishing Shot,Camera,Framing,STRONG,UNTESTED
+/14mm,14mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/18mm,18mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/24mm,24mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/28mm,28mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/35mm,35mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/40mm,40mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/50mm,50mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/85mm,85mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/105mm,105mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/135mm,135mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/200mm,200mm Lens Cue,Camera,Lens,STRONG,UNTESTED
+/fisheye,Fisheye,Camera,Lens,STRONG,UNTESTED
+/macro,Macro,Camera,Lens,STRONG,UNTESTED
+/onepointperspective,One-point Perspective,Camera,Perspective,STRONG,UNTESTED
+/twopointperspective,Two-point Perspective,Camera,Perspective,STRONG,UNTESTED
+/threepointperspective,Three-point Perspective,Camera,Perspective,STRONG,UNTESTED
+/forcedperspective,Forced Perspective,Camera,Perspective,STRONG,UNTESTED
+/foreshortening,Foreshortening,Camera,Perspective,STRONG,UNTESTED
+/orthographic,Orthographic,Camera,Projection,STRONG,UNTESTED
+/isometric,Isometric,Camera,Projection,STRONG,UNTESTED
+/shallowdof,Shallow Depth of Field,Camera,Focus,STRONG,UNTESTED
+/deepdof,Deep Depth of Field,Camera,Focus,STRONG,UNTESTED
+/bokeh,Bokeh,Camera,Focus,STRONG,UNTESTED
+/rackfocus,Rack Focus,Video,Focus,STRONG,UNTESTED
+/selectivefocus,Selective Focus,Camera,Focus,COMPOSITE,UNTESTED
+/softlight,Soft Light,Lighting,Quality,STRONG,UNTESTED
+/hardlight,Hard Light,Lighting,Quality,STRONG,UNTESTED
+/naturallight,Natural Light,Lighting,Source,COMPOSITE,UNTESTED
+/windowlight,Window Light,Lighting,Source,STRONG,UNTESTED
+/keylight,Key Light,Lighting,Function,STRONG,UNTESTED
+/filllight,Fill Light,Lighting,Function,STRONG,UNTESTED
+/backlight,Backlight,Lighting,Direction,STRONG,UNTESTED
+/sidelight,Side Light,Lighting,Direction,STRONG,UNTESTED
+/rimlight,Rim Light,Lighting,Effect,STRONG,UNTESTED
+/edgelight,Edge Light,Lighting,Effect,STRONG,UNTESTED
+/toplight,Top Light,Lighting,Direction,STRONG,UNTESTED
+/underlight,Under Light,Lighting,Direction,STRONG,UNTESTED
+/rembrandt,Rembrandt Lighting,Lighting,Pattern,STRONG,UNTESTED
+/butterflylight,Butterfly Lighting,Lighting,Pattern,STRONG,UNTESTED
+/looplight,Loop Lighting,Lighting,Pattern,STRONG,UNTESTED
+/splitlight,Split Lighting,Lighting,Pattern,STRONG,UNTESTED
+/broadlight,Broad Lighting,Lighting,Pattern,STRONG,UNTESTED
+/shortlight,Short Lighting,Lighting,Pattern,STRONG,UNTESTED
+/silhouette,Silhouette,Lighting,Exposure,STRONG,UNTESTED
+/volumetriclight,Volumetric Light,Lighting,Effect,STRONG,UNTESTED
+/godrays,God Rays,Lighting,Effect,COMPOSITE,UNTESTED
+/practicallight,Practical Light,Lighting,Source,STRONG,UNTESTED
