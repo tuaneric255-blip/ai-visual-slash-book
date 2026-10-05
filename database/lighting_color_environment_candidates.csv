@@ -1,0 +1,89 @@
+slash,canonical_name,domain,subcategory,semantic_type,test_status
+/highkey,High-key Lighting,Lighting,Tonal,STRONG,UNTESTED
+/lowkey,Low-key Lighting,Lighting,Tonal,STRONG,UNTESTED
+/threepointlighting,Three-point Lighting,Lighting,Setup,STRONG,UNTESTED
+/clamshelllight,Clamshell Lighting,Lighting,Pattern,STRONG,UNTESTED
+/striplight,Strip Light,Lighting,Source,STRONG,UNTESTED
+/gradientlight,Gradient Light,Lighting,Effect,COMPOSITE,UNTESTED
+/softboxlight,Softbox Light,Lighting,Source,STRONG,UNTESTED
+/lighttent,Light Tent,Lighting,Setup,STRONG,UNTESTED
+/sunrise,Sunrise,Lighting,Time,STRONG,UNTESTED
+/goldenhour,Golden Hour,Lighting,Time,STRONG,UNTESTED
+/bluehour,Blue Hour,Lighting,Time,STRONG,UNTESTED
+/midday,Midday,Lighting,Time,STRONG,UNTESTED
+/sunset,Sunset,Lighting,Time,STRONG,UNTESTED
+/night,Night,Environment,Time,STRONG,UNTESTED
+/overcast,Overcast,Environment,Weather,STRONG,UNTESTED
+/rainy,Rainy,Environment,Weather,STRONG,UNTESTED
+/foggy,Foggy,Environment,Weather,STRONG,UNTESTED
+/snowy,Snowy,Environment,Weather,STRONG,UNTESTED
+/stormlight,Storm Light,Lighting,Weather,COMPOSITE,UNTESTED
+/warmtones,Warm Tones,Color,Temperature,STRONG,UNTESTED
+/cooltones,Cool Tones,Color,Temperature,STRONG,UNTESTED
+/vibrant,Vibrant,Color,Saturation,COMPOSITE,UNTESTED
+/muted,Muted,Color,Saturation,COMPOSITE,UNTESTED
+/desaturated,Desaturated,Color,Saturation,STRONG,UNTESTED
+/pastelpalette,Pastel Palette,Color,Palette,COMPOSITE,UNTESTED
+/darkpalette,Dark Palette,Color,Value,COMPOSITE,UNTESTED
+/monochromatic,Monochromatic,Color,Harmony,STRONG,UNTESTED
+/analogouscolors,Analogous Colors,Color,Harmony,STRONG,UNTESTED
+/complementarycolors,Complementary Colors,Color,Harmony,STRONG,UNTESTED
+/splitcomplementary,Split Complementary,Color,Harmony,STRONG,UNTESTED
+/triadiccolors,Triadic Colors,Color,Harmony,STRONG,UNTESTED
+/accentcolor,Accent Color,Color,Hierarchy,STRONG,UNTESTED
+/cinematicgrade,Cinematic Grade,Color,Grade,COMPOSITE,UNTESTED
+/tealandorange,Teal and Orange,Color,Grade,COMPOSITE,UNTESTED
+/filmic,Filmic Look,Color,Grade,COMPOSITE,UNTESTED
+/fadedfilm,Faded Film,Color,Grade,COMPOSITE,UNTESTED
+/mattegrade,Matte Grade,Color,Grade,COMPOSITE,UNTESTED
+/blackandwhite,Black and White,Color,Grade,STRONG,UNTESTED
+/minimalinterior,Minimal Interior,Environment,Interior,COMPOSITE,UNTESTED
+/modernoffice,Modern Office,Environment,Interior,COMPOSITE,UNTESTED
+/luxuryhotel,Luxury Hotel,Environment,Interior,COMPOSITE,UNTESTED
+/cozycafe,Cozy Cafe,Environment,Interior,COMPOSITE,UNTESTED
+/industrialloft,Industrial Loft,Environment,Interior,COMPOSITE,UNTESTED
+/citystreet,City Street,Environment,Exterior,COMPOSITE,UNTESTED
+/rooftop,Rooftop,Environment,Exterior,STRONG,UNTESTED
+/alley,Alley,Environment,Exterior,STRONG,UNTESTED
+/park,Park,Environment,Exterior,STRONG,UNTESTED
+/beach,Beach,Environment,Exterior,STRONG,UNTESTED
+/mountain,Mountain,Environment,Exterior,STRONG,UNTESTED
+/forest,Forest,Environment,Exterior,STRONG,UNTESTED
+/crowdedstreet,Crowded Street,Environment,Density,COMPOSITE,UNTESTED
+/quietstreet,Quiet Street,Environment,Density,COMPOSITE,UNTESTED
+/seoulstreet,Seoul Street,City,Seoul,COMPOSITE,UNTESTED
+/seoulstreetlook,Seoul Street Look,City,Seoul,COMPOSITE,UNTESTED
+/seoulnight,Seoul Night,City,Seoul,COMPOSITE,UNTESTED
+/seoulneon,Seoul Neon,City,Seoul,COMPOSITE,UNTESTED
+/myeongdong,Myeongdong,City,Seoul,COMPOSITE,UNTESTED
+/gangnamstreet,Gangnam Street,City,Seoul,COMPOSITE,UNTESTED
+/hongdae,Hongdae,City,Seoul,COMPOSITE,UNTESTED
+/itaewon,Itaewon,City,Seoul,COMPOSITE,UNTESTED
+/seoulcafe,Seoul Cafe,City,Seoul,COMPOSITE,UNTESTED
+/seoulalley,Seoul Alley,City,Seoul,COMPOSITE,UNTESTED
+/seoulrooftop,Seoul Rooftop,City,Seoul,COMPOSITE,UNTESTED
+/seoulspring,Seoul Spring,City,Seoul,COMPOSITE,UNTESTED
+/tokyostreet,Tokyo Street,City,Tokyo,COMPOSITE,UNTESTED
+/tokyonight,Tokyo Night,City,Tokyo,COMPOSITE,UNTESTED
+/tokyoneon,Tokyo Neon,City,Tokyo,COMPOSITE,UNTESTED
+/shibuya,Shibuya,City,Tokyo,COMPOSITE,UNTESTED
+/shibuyanight,Shibuya Night,City,Tokyo,COMPOSITE,UNTESTED
+/shinjuku,Shinjuku,City,Tokyo,COMPOSITE,UNTESTED
+/shinjukunight,Shinjuku Night,City,Tokyo,COMPOSITE,UNTESTED
+/harajuku,Harajuku,City,Tokyo,COMPOSITE,UNTESTED
+/tokyoalley,Tokyo Alley,City,Tokyo,COMPOSITE,UNTESTED
+/tokyorain,Tokyo Rain,City,Tokyo,COMPOSITE,UNTESTED
+/tokyosakura,Tokyo Sakura,City,Tokyo,COMPOSITE,UNTESTED
+/tokyocafe,Tokyo Cafe,City,Tokyo,COMPOSITE,UNTESTED
+/hanoistreet,Hanoi Street,City,Hanoi,COMPOSITE,UNTESTED
+/hanoioldquarter,Hanoi Old Quarter,City,Hanoi,COMPOSITE,UNTESTED
+/hanoiautumn,Hanoi Autumn,City,Hanoi,COMPOSITE,UNTESTED
+/hanoiwinter,Hanoi Winter,City,Hanoi,COMPOSITE,UNTESTED
+/hanoicafe,Hanoi Cafe,City,Hanoi,COMPOSITE,UNTESTED
+/hanoirain,Hanoi Rain,City,Hanoi,COMPOSITE,UNTESTED
+/hanoinight,Hanoi Night,City,Hanoi,COMPOSITE,UNTESTED
+/hanoifrenchquarter,Hanoi French Quarter,City,Hanoi,COMPOSITE,UNTESTED
+/hoankiem,Hoan Kiem,City,Hanoi,COMPOSITE,UNTESTED
+/trainstreet,Train Street,City,Hanoi,COMPOSITE,UNTESTED
+/hanoivintage,Hanoi Vintage,City,Hanoi,COMPOSITE,UNTESTED
+/hanoimorning,Hanoi Morning,City,Hanoi,COMPOSITE,UNTESTED
