@@ -1,0 +1,21 @@
+@page { size: A4; margin: 18mm 17mm 20mm 21mm; }
+:root { --ink:#171717; --muted:#666; --line:#d9d9d9; --paper:#fff; --soft:#f4f4f4; }
+* { box-sizing:border-box; }
+body { margin:0; color:var(--ink); background:var(--paper); font-family:Arial, sans-serif; font-size:10.5pt; line-height:1.45; }
+p { text-align:justify; orphans:3; widows:3; }
+h1,h2,h3,figure,table { break-inside:avoid; }
+.chapter { break-before:page; }
+.figure { margin:8mm 0; break-inside:avoid; }
+.compare-grid { display:grid; grid-template-columns:1fr 1fr; gap:5mm; align-items:start; }
+.visual-card { min-width:0; }
+.image-slot { aspect-ratio:4/5; border:0.3mm solid var(--line); background:var(--soft); display:flex; align-items:center; justify-content:center; color:var(--muted); }
+.slash-label { margin-top:2.5mm; text-align:center; font-family:"Courier New", monospace; font-size:13pt; font-weight:700; }
+.slash-label.muted { color:var(--muted); font-weight:400; }
+.figure-notes { margin-top:4mm; padding:3.5mm 4mm; border-left:1mm solid #333; background:var(--soft); }
+.figure-notes p { margin:0 0 1.5mm; }
+figcaption { margin-top:2.5mm; font-size:8.5pt; color:#444; }
+.badge { font-family:"Courier New", monospace; font-size:8pt; border:0.25mm solid #777; padding:0.6mm 1.5mm; border-radius:2mm; }
+.flow { display:flex; align-items:center; gap:2mm; break-inside:avoid; }
+.flow .node { flex:1; border:0.3mm solid var(--line); padding:3mm; text-align:center; font-weight:700; }
+.flow .arrow { flex:0 0 auto; }
+@media print { a { color:inherit; text-decoration:none; } }
