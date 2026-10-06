@@ -1,0 +1,39 @@
+slash,canonical_name,layer,semantic_type,test_status
+/stand,Stand,Body State,STRONG,UNTESTED
+/sit,Sit,Body State,STRONG,UNTESTED
+/kneel,Kneel,Body State,STRONG,UNTESTED
+/crouch,Crouch,Body State,STRONG,UNTESTED
+/squat,Squat,Body State,STRONG,UNTESTED
+/recline,Recline,Body State,STRONG,UNTESTED
+/lie,Lie,Body State,STRONG,UNTESTED
+/prone,Prone,Body State,STRONG,UNTESTED
+/supine,Supine,Body State,STRONG,UNTESTED
+/crosslegged,Cross-legged,Leg Configuration,STRONG,UNTESTED
+/onekneeup,One Knee Up,Leg Configuration,STRONG,UNTESTED
+/kneehug,Knee Hug,Leg Configuration,STRONG,UNTESTED
+/legsextended,Legs Extended,Leg Configuration,STRONG,UNTESTED
+/onelegextended,One Leg Extended,Leg Configuration,STRONG,UNTESTED
+/legscrossed,Legs Crossed,Leg Configuration,STRONG,UNTESTED
+/chinhand,Chin on Hand,Gesture,COMPOSITE,UNTESTED
+/cheekhand,Cheek on Hand,Gesture,COMPOSITE,UNTESTED
+/handonhip,Hand on Hip,Gesture,COMPOSITE,UNTESTED
+/handsbehind,Hands Behind,Gesture,COMPOSITE,UNTESTED
+/handsforward,Hands Forward,Gesture,COMPOSITE,UNTESTED
+/headtilt,Head Tilt,Head,STRONG,UNTESTED
+/lookback,Look Back,Head,COMPOSITE,UNTESTED
+/chinup,Chin Up,Head,STRONG,UNTESTED
+/chindown,Chin Down,Head,STRONG,UNTESTED
+/lookcamera,Look at Camera,Gaze,COMPOSITE,UNTESTED
+/lookaway,Look Away,Gaze,STRONG,UNTESTED
+/lookup,Look Up,Gaze,STRONG,UNTESTED
+/lookdown,Look Down,Gaze,STRONG,UNTESTED
+/profile,Profile,Orientation,STRONG,UNTESTED
+/birdseye,Bird's-eye View,Camera Viewpoint,STRONG,UNTESTED
+/wormseye,Worm's-eye View,Camera Viewpoint,STRONG,UNTESTED
+/droneview,Drone View,Camera Viewpoint,COMPOSITE,UNTESTED
+/wideangle,Wide-angle Aesthetic,Camera Lens,COMPOSITE,UNTESTED
+/foreshortening,Foreshortening,Perspective,STRONG,UNTESTED
+/slouch,Slouch,Posture,STRONG,UNTESTED
+/eyesclosed,Eyes Closed,Expression,STRONG,UNTESTED
+/armchair,Armchair,Prop,STRONG,UNTESTED
+/table,Table,Prop,STRONG,UNTESTED
